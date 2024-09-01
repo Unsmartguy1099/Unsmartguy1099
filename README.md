@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=8DABF7&background=33303000&multiline=true&width=435&lines=%F0%9F%91%8BHi+;+++I'm+Saif+)](https://git.io/typing-svg)
 
-![Unsmartguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unsmartguy1099&show_icons=true&theme=dark)
+![Unsmartguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksaifullahhafiz1099&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unsmartguy1099&layout=compact&theme=dark)](https://github.com/Unsmartguy1099/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unsmartguy1099&layout=compact&theme=dark)](https://github.com/sksaifullahhafiz1099/github-readme-stats)
 
