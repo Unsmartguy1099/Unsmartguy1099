@@ -30,9 +30,9 @@ Technologies and Languages </h2>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+<!--<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>-->
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+<!--<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>-->
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 <!--  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
@@ -51,17 +51,17 @@ Technologies and Languages </h2>
  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
 	<a href="#"><img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 	<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-    <a href="#"><img alt="ECLIPSE" src="https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse"></a>
-    <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"></a>
+   <!-- <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>-->
+    <!--<a href="#"><img alt="ECLIPSE" src="https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse"></a>-->
+    <!--<a href="#"><img alt="JQuery" src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"></a>-->
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"></a>
+    <!--<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"></a>-->
     <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"></a>
-    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"></a>
-    <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"></a>
+    <!--<a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"></a>-->
+   <!-- <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"></a>-->
+   <!-- <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white"></a>-->
+    <!--<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"></a>-->
 <h2 align="Left">
 Connect with me </h2>
