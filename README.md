@@ -70,6 +70,6 @@ Connect with me </h2>
 <a href="https://x.com/SkSaif1099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
 <a href="https://www.facebook.com/saifullahhafiz.sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sk.saifullahhafiz2395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/sk-saifullah-hafiz-539ab6257/"><img alt="sksaifullahhafiz1099" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg"></a>
+  <a href="https://www.linkedin.com/in/sk-saifullah-hafiz-539ab6257/"><img alt="sksaifullahhafiz1099" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg"></a>
   <a href="mailto:sksaifullahhafiz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
