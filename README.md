@@ -64,4 +64,12 @@ Technologies and Languages </h2>
    <!-- <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white"></a>-->
     <!--<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"></a>-->
 <h2 align="Left">
+	
 Connect with me </h2>
+<p align="Left">
+	<a href="https://x.com/SkSaif1099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-		 generator/master/src/images/icons/Social/twitter.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
+<a href="https://www.facebook.com/saifullahhafiz.sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sk.saifullahhafiz2395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sk-saifullah-hafiz-539ab6257/"><img alt="sksaifullahhafiz1099" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sksaifullahhafiz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
