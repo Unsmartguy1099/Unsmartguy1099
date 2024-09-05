@@ -68,7 +68,7 @@ Technologies and Languages </h2>
 Connect with me </h2>
 <p align="Left">
 	
-	<a href="https://x.com/SkSaif1099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
+<a href="https://x.com/SkSaif1099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
 	
 <a href="https://www.facebook.com/saifullahhafiz.sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sk.saifullahhafiz2395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sksaifullahhafiz1099" height="30" width="40" /></a>
